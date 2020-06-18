@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../TAWA.png</file>
+        <file>../bg.jpg</file>
+    </qresource>
+</RCC>
